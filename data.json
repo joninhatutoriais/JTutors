@@ -1,0 +1,9 @@
+{
+	"1":
+	{
+	"titulo" : "AIDE - WebView",
+	"descricao" : "Aprenda a utilizar o componente WebView, e assim exibir páginas da internet dentro do seu aplicativo sem necessidade de navegadores externos.",
+	"conteudo" : "<iframe width='560' height='315' src='https://www.youtube.com/embed/mXTGMThIcWg' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+	"data" : "16-06-2018"
+	}
+}
